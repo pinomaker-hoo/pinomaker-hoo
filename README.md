@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
 
 ## Link
-<a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>

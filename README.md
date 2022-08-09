@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/NodeJS-31B025?style=flat-square&logo=Node JS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring boot-31B025?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/#E0234E?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-#E0234E?style=flat-square&logo=Nest JS&logoColor=white"/>
 
 
 

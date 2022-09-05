@@ -9,4 +9,4 @@
 <a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pino-hoo&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pino-hoo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

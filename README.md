@@ -22,4 +22,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pino-hoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-inhoo23](http://mazassumnida.wtf/api/generate_badge?boj={inhoo23})](https://solved.ac/{inhoo23})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23)](https://solved.ac/inhoo23)

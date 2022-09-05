@@ -22,3 +22,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pino-hoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac/profile/inhoo23](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23)](https://solved.ac/inhoo23)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={inhoo23}&theme=warm)
+

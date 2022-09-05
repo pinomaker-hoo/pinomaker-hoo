@@ -14,7 +14,7 @@
 <a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpino-hoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pino-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

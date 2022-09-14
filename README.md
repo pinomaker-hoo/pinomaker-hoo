@@ -32,8 +32,6 @@
   <p>Other</p>
   <img src = "https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src =" https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white" />
-  
-  
   <br />
   <br />
   <br />
@@ -43,10 +41,6 @@
   <img src =" https://img.shields.io/badge/Postman-%23C21325?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-
-
-
-## Link
 <a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
 

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>🧑🏻 서비스 개발자 김인후</h1>
+  <h1>😎 서비스 개발자 김인후 😎</h1>
   <p>
     <br />
     <a href = "https://www.instagram.com/pino._.hoo/"><img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -32,32 +32,32 @@
   <br />
   <h3>📺 Client 📺</h3>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/NextJS-blue?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-blue?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextJS-grey?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-blue?style=flat-square&logo=React&logoColor=white"/>   
   <h3>💾 Server 💾</h3>
   <img src="https://img.shields.io/badge/Spring boot-31B025?style=flat-square&logo=Spring Boot&logoColor=white"/>   
-  <img src="https://img.shields.io/badge/Express-%23E0234E.svg?style=for-the-badge&logo=Express&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express-grey.svg?style=for-the-badge&logo=Express&logoColor=white"/> 
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <br />
-  <img src ="https://img.shields.io/badge/Sequelize-%23C21325?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Typeorm-%23C21325?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img src ="https://img.shields.io/badge/JPA-%23C21325?style=for-the-badge&logo=Sequelize&logoColor=white" />  
+  <img src ="https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Typeorm-blue?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img src ="https://img.shields.io/badge/JPA-%31B025?style=for-the-badge&logo=Sequelize&logoColor=white" />  
   <br />
   <h3>⚙️ Other ⚙️</h3>
-  <img src ="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src ="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img src ="https://img.shields.io/badge/MySQL-orange.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src ="https://img.shields.io/badge/Jest-brown?style=for-the-badge&logo=Jest&logoColor=white" />
   <br />
   <h3>🛠️ Tools 🛠️</h3>
-  <img src ="https://img.shields.io/badge/Slack-%23C21325?style=for-the-badge&logo=Slack&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Notion-%23C21325?style=for-the-badge&logo=Notion&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Trello-%23C21325?style=for-the-badge&logo=Trello&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Obsidian-%23C21325?style=for-the-badge&logo=Obsidian&logoColor=white" />  
+  <img src ="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Obsidian-purple?style=for-the-badge&logo=Obsidian&logoColor=white" />  
   <br />
-  <img src ="https://img.shields.io/badge/Figma-%23C21325?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Photoshop-%23C21325?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
-  <img src ="https://img.shields.io/badge/After Effects-%23C21325?style=for-the-badge&logo=Adobe After Effects&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Premiere Pro-%23C21325?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" />
+  <img src ="https://img.shields.io/badge/After Effects-purple?style=for-the-badge&logo=Adobe After Effects&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Premiere Pro-blue?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white" />
   <br />
 </div>
 

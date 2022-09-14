@@ -7,10 +7,43 @@
  안녕하세요! 개발을 공부하는 김인후 입니다:)
  
 <div align="center">
-![image]("https://www.flaticon.com/free-icon/web-development_2282188?term=develope&page=1&position=6&page=1&position=6&related_id=2282188&origin=search")
-  Tech Stack
+  <p>Language</p>
+  <img src="https://img.shields.io/badge/JavaScript-F4D53E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-31B025?style=flat-square&logo=Node.js&logoColor=white"/>
+  <br />
+  <br />
+  <br />
+  <p>Client</p>
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/NextJS-blue?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-blue?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-blue?style=flat-square&logo=React&logoColor=white"/>   
+  <br />
+  <br />
+  <br />
+  <p>Server</p>
+  <img src="https://img.shields.io/badge/Spring boot-31B025?style=flat-square&logo=Spring Boot&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/Express-%23E0234E.svg?style=for-the-badge&logo=Express&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>   
+  <br />
+  <br />
+  <br />
+  <p>Other</p>
+  <img src = "https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src =" https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white" />
+  
+  
+  <br />
+  <br />
+  <br />
+  <p>Other Tools</p>
+  <img src =" https://img.shields.io/badge/Figma-%23C21325?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src =" https://img.shields.io/badge/Slack-%23C21325?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src =" https://img.shields.io/badge/Postman-%23C21325?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
-<img src="https://img.shields.io/badge/JavaScript-F4D53E?style=flat-square&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/NodeJS-31B025?style=flat-square&logo=Node JS&logoColor=white"/>   <img src="https://img.shields.io/badge/Spring boot-31B025?style=flat-square&logo=Spring Boot&logoColor=white"/>   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src ="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src =" https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
+
 
 
 ## Link

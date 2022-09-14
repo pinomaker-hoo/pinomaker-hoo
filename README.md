@@ -32,17 +32,20 @@
   <br />
   <br />
   <h3>Other</h3>
-  <img src = "https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src =" https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img src ="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img src ="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Sequelize-%23C21325?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Typeorm-%23C21325?style=for-the-badge&logo=Sequelize&logoColor=white" />
+
   <br />
   <br />
   <h3>Other Tools</h3>
   <br />
-  <img src =" https://img.shields.io/badge/Figma-%23C21325?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src =" https://img.shields.io/badge/Slack-%23C21325?style=for-the-badge&logo=Slack&logoColor=white" />
-  <img src =" https://img.shields.io/badge/Postman-%23C21325?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Figma-%23C21325?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Slack-%23C21325?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Postman-%23C21325?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Notion-%23C21325?style=for-the-badge&logo=Notion&logoColor=white" />
 </div>
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpino-hoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

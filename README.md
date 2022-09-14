@@ -8,7 +8,7 @@
  <a href = "https://pinocchio-develope-stroy.tistory.com/"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <br />
   <br />
- 안녕하세요! 개발을 공부하는 김인후 입니다:)
+  <p>안녕하세요! 개발을 공부하는 김인후 입니다:)</p>
   <h3>Language</h3>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-F4D53E?style=flat-square&logo=JavaScript&logoColor=white"/>

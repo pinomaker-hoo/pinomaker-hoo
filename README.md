@@ -61,5 +61,5 @@
   <br />
 </div>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={inhoo23}&theme=warm)
-![Solved.ac/profile/inhoo23](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23)](https://solved.ac/inhoo23) 
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={inhoo23}&theme=warm)
+![Solved.ac/profile/inhoo23](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23) -->

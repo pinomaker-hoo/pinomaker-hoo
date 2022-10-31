@@ -29,9 +29,11 @@
   <br />
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinomaker-hoo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br />
-  <h3>Language</h3>
+  <br />
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <h3>🏝️ Language 🏝️</h3>
   <img src= "https://img.shields.io/badge/JavaScript-F4D53E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Java-F59E43?style=flat-square&logo=Aiqfome&logoColor=white"/>

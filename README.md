@@ -42,12 +42,14 @@
   <img src ="https://img.shields.io/badge/Typeorm-blue?style=flat-square&logo=Sequelize&logoColor=white" />
   <br />
   <br />
-  <h3>⚙️ Other ⚙️</h3>
   <img src ="https://img.shields.io/badge/MySQL-orange.svg?style=flat-square&logo=mysql&logoColor=white" /> 
   <br />
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={inhoo23}&theme=warm)
 ![Solved.ac/profile/inhoo23](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23) -->

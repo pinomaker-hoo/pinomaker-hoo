@@ -48,8 +48,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={inhoo23}&theme=warm)
-![Solved.ac/profile/inhoo23](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhoo23) -->

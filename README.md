@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>😎 서비스 개발자 김인후 😎</h1>
   <p>
@@ -13,6 +12,8 @@
       <img src ="https://img.shields.io/badge/Profile-%23C21325?style=flat-square&logo=Notion&logoColor=white" />
     </a>
     <br />
+    ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
+    ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo)
     <br />
     <br />
     🌏 서비스 관점에서 개발하고자 노력하는 서비스 개발자 입니다. 🌏

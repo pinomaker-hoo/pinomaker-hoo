@@ -12,8 +12,10 @@
       <img src ="https://img.shields.io/badge/Profile-%23C21325?style=flat-square&logo=Notion&logoColor=white" />
     </a>
     <br />
-    ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
-    ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo)
+    <div>
+      ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
+      ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo)
+    </div>
     <br />
     <br />
     🌏 서비스 관점에서 개발하고자 노력하는 서비스 개발자 입니다. 🌏
@@ -46,6 +48,10 @@
   <img src ="https://img.shields.io/badge/MySQL-orange.svg?style=flat-square&logo=mysql&logoColor=white" /> 
   <br />
   <br />
+  <h3>📚 Study 📚</h3>
+  <img src ="https://img.shields.io/badge/Next.js-blue?style=flat-square&logo=Next.js&logoColor=white" />
+  <img src ="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white" />
+
 </div>
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo)](https://github.com/anuraghazra/github-readme-stats) -->

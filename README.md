@@ -13,8 +13,8 @@
     </a>
     <br />
     <div>
-      ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
-      ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo)
+<!--       ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
+      ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo) -->
     </div>
     <br />
     <br />

@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <h1>😎 서비스 개발자 김인후 😎</h1>
   <p>
@@ -13,8 +15,6 @@
     </a>
     <br />
     <div>
-<!--       ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo)
-      ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo) -->
     </div>
     <br />
     <br />
@@ -36,6 +36,7 @@
   <h3>📺 Client 📺</h3>
   <img src ="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/>   
   <img src ="https://img.shields.io/badge/React Native-blue?style=flat-square&logo=React&logoColor=white"/>   
+  <img src ="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/>
   <h3>💾 Server 💾</h3>
   <img src= "https://img.shields.io/badge/NodeJS-31B025?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Express-grey.svg?style=flat-square&logo=Express&logoColor=white"/> 
@@ -54,4 +55,6 @@
 
 </div>
 
+<!--         ![pinomaker-hoo GitHub Stats](https://server.dooboo.io/github-stats-advanced/pinomaker-hoo).
+      ![pinomaker-hoo GitHub Trophies](https://server.dooboo.io/github-trophies/pinomaker-hoo). -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo)](https://github.com/anuraghazra/github-readme-stats) -->

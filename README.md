@@ -45,7 +45,7 @@
   <img src ="https://img.shields.io/badge/Sequelize-blue?style=flat-square&logo=Sequelize&logoColor=white" />
   <img src ="https://img.shields.io/badge/Typeorm-blue?style=flat-square&logo=Sequelize&logoColor=white" />
   <img src ="https://img.shields.io/badge/JPA-green?style=flat-square&logo=Jameson&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Mybatis?style=flat-square&logo=Jameson&logoColor=white" /> 
+  <img src ="https://img.shields.io/badge/Mybatis-purple?style=flat-square&logo=Jameson&logoColor=white" />
   <br />
   <br />
   <img src ="https://img.shields.io/badge/MySQL-orange.svg?style=flat-square&logo=mysql&logoColor=white" /> 

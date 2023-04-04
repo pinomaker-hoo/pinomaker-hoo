@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>😎 서비스 개발자 김인후 😎</h1>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pinomaker&fontSize=90" />
+  <br />
   <br />
   <a href = "https://www.instagram.com/pino._.hoo/">
     <img src="https://img.shields.io/badge/instagram-purple?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -10,9 +11,7 @@
   <a href = "https://invincible-governor-a3a.notion.site/41ed73f2603146478d3f2dbf13043e93">
     <img src ="https://img.shields.io/badge/Profile-%23C21325?style=flat-square&logo=Notion&logoColor=white" />
   </a>
-  <br />
-  <br />
-  <p>🌏 서비스 관점에서 개발하고자 노력하는 서비스 개발자 입니다. 🌏</p>
+<!--   <p>🌏 서비스 관점에서 개발하고자 노력하는 서비스 개발자 입니다. 🌏</p>
   <br />
   <p>💻 효율을 중시하고자 노력하는 서비스 개발자 입니다. 💻</p>
   <br />
@@ -20,8 +19,14 @@
   <br />
   <p>👩‍👩‍👧 다양한 경험을 통해 협업을 중시하는 서비스 개발자 입니다. 👩‍👩‍👧</p>
   <br />
+  <br /> -->
+<!--   <img src="https://server.dooboo.io/github-stats-advanced/pinomaker-hoo" height="400px" /> -->
+  <br />  
   <br />
-  <img src="https://server.dooboo.io/github-stats-advanced/pinomaker-hoo" height="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinomaker-hoo" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&langs_count=2&theme=dark" />
   <br />
   <br />
   <h3>🏝️ Language 🏝️</h3>

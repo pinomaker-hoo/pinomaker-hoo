@@ -23,9 +23,9 @@
 <!--   <img src="https://server.dooboo.io/github-stats-advanced/pinomaker-hoo" height="400px" /> -->
   <br />  
   <br />
-  <span>
+<!--   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=pinomaker-hoo" />
-  </span>
+  </span> -->
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinomaker-hoo&langs_count=2&theme=dark" />
   </span>

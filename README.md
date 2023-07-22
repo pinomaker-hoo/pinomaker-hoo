@@ -8,7 +8,7 @@
   <a href = "https://pinomaker.com/">
     <img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Blogger&logoColor=white"/>
   </a>
-  <a href = "https://invincible-governor-a3a.notion.site/41ed73f2603146478d3f2dbf13043e93">
+  <a href = "https://invincible-governor-a3a.notion.site/d750138feb2e423181604d3522c3350d?pvs=4">
     <img src ="https://img.shields.io/badge/Profile-%23C21325?style=flat-square&logo=Notion&logoColor=white" />
   </a>
 <!--   <p>🌏 서비스 관점에서 개발하고자 노력하는 서비스 개발자 입니다. 🌏</p>

@@ -2,7 +2,7 @@
 <!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Pinomaker&fontSize=90" /> -->
   <h3>👋 Hello I'm Software Engineer, pino</h3>
 
-  <a href="#">
+<!--  <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=pinomaker-hoo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 <a href="#">
@@ -20,6 +20,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
+-->
 <!--   <br />
   <br />
   <a href = "https://www.instagram.com/pino._.hoo/">

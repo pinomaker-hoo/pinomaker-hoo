@@ -1,6 +1,25 @@
 <div>
 <!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Pinomaker&fontSize=90" /> -->
   <h3>👋 Hello I'm Software Engineer, pino</h3>
+
+  <a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=pinomaker-hoo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=pinomaker-hoo&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=pinomaker-hoo&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=pinomaker-hoo&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
 <!--   <br />
   <br />
   <a href = "https://www.instagram.com/pino._.hoo/">

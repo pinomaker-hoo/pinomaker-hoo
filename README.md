@@ -1,8 +1,11 @@
-![snake gif](https://github.com/pinomaker-hoo/pinomaker-hoo/blob/output/github-contribution-grid-snake.svg)
+## 👋 Hello I'm Software Engineer, pino
+
+![github contribution grid snake animation](https://github.com/pinomaker-hoo/pinomaker-hoo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/pinomaker-hoo/pinomaker-hoo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div>
 <!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Pinomaker&fontSize=90" /> -->
-  <h3>👋 Hello I'm Software Engineer, pino</h3>
+<!--   <h3>👋 Hello I'm Software Engineer, pino</h3> -->
 
 <!--  <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=pinomaker-hoo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />

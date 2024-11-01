@@ -1,3 +1,4 @@
+
 # 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
 
 name: Generate Snake
@@ -34,7 +35,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3

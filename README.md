@@ -1,10 +1,9 @@
 ## 👋 Hello I'm Software Engineer, pino
 
-![github contribution grid snake animation](https://github.com/pinomaker-hoo/pinomaker-hoo/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/pinomaker-hoo/pinomaker-hoo/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/pinomaker-hoo/pinomaker-hoo/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-<!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Pinomaker&fontSize=90" /> -->
+<!--<div>
+   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Pinomaker&fontSize=90" /> -->
 <!--   <h3>👋 Hello I'm Software Engineer, pino</h3> -->
 
 <!--  <a href="#">
@@ -86,5 +85,5 @@
   <br />
   <div>
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="30%"/>
-  </div> -->
-</div>
+  </div> 
+</div>-->
